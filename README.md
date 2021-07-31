@@ -16,7 +16,8 @@ Packages used and learned about:
 <li> Animation in Flutter </li>
 </ul>
 
-
+<h3>A Demo of the App</h3>
+<video src="https://user-images.githubusercontent.com/49688611/122666473-09ec9d00-d1cb-11eb-9580-83d49dee813d.mp4" autoplay controls width="100%" height="100%" />
 
 
 ## Getting Started
